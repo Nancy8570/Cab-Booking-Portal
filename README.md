@@ -158,14 +158,6 @@
 ![image](https://user-images.githubusercontent.com/103804433/221413540-46a40d1f-428e-46f8-abac-483dc1f3790a.png)
 
 
-#### This project is developed by team of 3 Java Back-End Developers during construct week at Masai School
-### Contributors
-
-- **[Nancy Rana](https://github.com/Nancy8570)**
-- **[Satyam Yadav](https://github.com/iamsatyamyadav)**
-- **[Sudhir Singh](https://github.com/sudhir2408)**
-- **[Saurabh Patel](https://github.com/Saurabhpatel0894)**
-
 #### For any feedback, report, suggestions, you can contact with anyone of the team members.
 ### THANK YOU
 
